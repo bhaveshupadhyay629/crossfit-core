@@ -1,2 +1,3 @@
-# crossfit-core
-My website, built with makable
+# CrossFit Core
+
+Built with [makable](https://makable.tech).
